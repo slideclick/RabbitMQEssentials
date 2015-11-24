@@ -1,0 +1,2 @@
+# RabbitMQEssentials
+learn RabbitMQ Essentials
